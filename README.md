@@ -1,6 +1,6 @@
-### <br></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi! Welcome to my Github profile 👋  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡
-
+<h1 align=center>
+  Hi! Welcome to my Github profile 👋 ⚡
+</h1>
 
 <!--
 **isilay-quorion/isilay-quorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
